@@ -1,7 +1,7 @@
 {
-  "name": "pure-js",
+  "name": "boilerplate-js",
   "version": "1.0.0",
-  "description": "pure javascript",
+  "description": "Boilerplate for JavaScript projects with linter and tests",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
